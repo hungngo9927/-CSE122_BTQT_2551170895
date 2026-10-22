@@ -1,0 +1,38 @@
+body{
+    width: 600px;
+    height: 400px;
+}
+h1{
+    color:#E65100 ;
+    text-align: center;
+}
+.box{
+    justify-content: center;
+    width: 500px;
+    display: flex;
+}
+img{
+    border-radius: 8px;
+   
+    display: flex;
+}
+table{
+    flex: 70%;
+    height: 100%;
+    width: 100%;
+    border-collapse: collapse;
+}
+.centre {
+    text-align: center;
+}
+th{
+    background-color:#E65100 ;
+    color: white;
+}
+td{
+    font-size: 28px;
+    border-bottom: 1px solid#E0D6C2 ;
+}
+.bg{
+    background-color: #FDF8EF;
+}

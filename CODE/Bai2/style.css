@@ -1,0 +1,19 @@
+body {
+    background-color:#C9A227  ;
+}
+h1{
+    color: #FFFFFF;
+    text-align: center;
+    text-shadow: 3px 3px 3px #000000;
+}
+img{
+    border: #FFFFFF solid;
+    float:right;
+    width: 450px;
+    height: auto;
+}
+p{
+    color: #FFFFFF;
+    text-align: justify;
+    font-size: 25px;
+}

@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(#7ec8e3,#0a5c8a)
+}
+h1{
+    color: #0b3d5c;
+    font-weight: bold;
+    text-align: center;
+}
+.intro-block{
+    background-color: #0b3d5c;
+    color: #ffffff;
+    font-style: italic;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.content-block p{
+    color: #0b3d5c;
+    text-align: justify;
+    font-size: 25px;
+}
+.content-block p::first-letter{
+    font-size: 300%;
+    font-weight: bold;
+}
+img{
+    border-radius: 8px;
+    float: right;
+    width: 500px;
+    height: auto;
+}
+div{
+    background-color: #ffffff;
+    margin: 20px;
+    padding: 30px;;
+    
+}
